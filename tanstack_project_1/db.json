@@ -1,0 +1,65 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "The Journey Begins",
+        "body": " A thrilling start to an exciting adventure.",
+        "author": "Alice Smith"
+      },
+      {
+        "id": 2,
+        "title": "Exploring New Horizons",
+        "body": "This post explores new ideas and the possibilities of the unknown.",
+        "author": "Bob Johnson"
+      },
+      {
+        "id": 3,
+        "title": "Life in the Fast Lane",
+        "body": "A reflection on how fast life moves and the lessons learned along the way.",
+        "author": "Catherine Lee"
+      },
+      {
+        "id": 4,
+        "title": "Technology and You",
+        "body": "How technology is shaping our lives and what the future might look like.",
+        "author": "David Turner"
+      },
+      {
+        "id": 5,
+        "title": "A Walk in the Park",
+        "body": "A peaceful walk in the park led to profound thoughts about nature and life.",
+        "author": "Emma White"
+      },
+      {
+        "id": 6,
+        "title": "Reflections on Art",
+        "body": "An artistic view on the world and how art impacts our daily lives.",
+        "author": "Frank Harris"
+      },
+      {
+        "id": 7,
+        "title": "Mind Over Matter",
+        "body": "Exploring the power of the mind and how mental strength can overcome obstacles.",
+        "author": "Grace Taylor"
+      },
+      {
+        "id": 8,
+        "title": "The Road Less Traveled",
+        "body": "Taking the less conventional path can often lead to surprising results.",
+        "author": "Henry Williams"
+      },
+      {
+        "id": 9,
+        "title": "The Future of Science",
+        "body": "A glimpse into the advancements in science and how they will change our world.",
+        "author": "Ivy Martin"
+      },
+      {
+        "id": 10,
+        "title": "An Evening with Friends",
+        "body": "A warm evening spent with good friends, laughter, and deep conversations.",
+        "author": "Jack Robinson"
+      }
+    ]
+  }
+  
